@@ -1,0 +1,9 @@
+
+body{
+    width:100%;
+    height:100%;
+}
+.title {
+    background-image: url("img/balloon-2.jpg");
+    background-color: blue;
+}
